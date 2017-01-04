@@ -1,0 +1,56 @@
+np
+2
+nstep
+5000000
+iprint
+50
+istart
+0
+radius nm
+200
+tempratuere
+293.15
+dt ms
+0.2
+starting t
+0.0
+idummy
+1
+fixdist in radius 
+6.67e-6
+rescale flag
+1
+cyclenum
+4
+initial orientation vector
+1 0 0   0.91162    -0.02011     0.41054
+proheight in radius
+3 23.5 13.9
+tolerance in radius
+3.33e-5
+rho of fluid
+1.0
+rho of particle
+19.3
+Grav kT/a
+0.297 1.5
+kappa*a
+6.6 4.995
+Bpw/a/kT
+2.433 2.876
+hydroflag
+1
+cylinder flag
+0
+two wall flag
+0
+upper wall
+5000
+asymmetry flag
+0 1
+grav2 kT/a
+0.332
+activeforce kT/a
+0
+caldiff flag
+0
